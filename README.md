@@ -1,2 +1,2 @@
 # ChatBotWithUI
-A chatbot which used chat gpt api in the back with custom UI to answer queries
+Some chat bot projects using openai API and gradio for UI. 
